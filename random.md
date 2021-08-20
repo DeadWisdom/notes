@@ -1,0 +1,22 @@
+## Features for Brantmail
+
+- inboxes (lists of items)
+ - search
+ - sus
+ - screened
+- contacts
+- read / thread
+- tags
+- compose
+ - collaborative
+- promises
+- mime handlers
+ - email chat
+ - surveys
+ - invitations
+ - collab
+- instant send
+- notifications
+- rss subscriptions
+- social media
+- groups
