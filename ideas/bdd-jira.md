@@ -1,0 +1,25 @@
+## Features
+
+- Tracks .feature files in one or more repos
+- Lets non-devs see, edit, and manage features
+- Users can create tasks for features
+  - Task types: chore, debt, bug
+- Spike status
+- Tagging
+- Kanban board
+- Connect directly to figma
+- Track feature branch
+- Track feature flag
+- Constant CI see features + state in real time
+- See videos of feature test / snapshots
+- Feature owners
+- Estimation
+- Scaffolding
+  - Design System
+  - Component Breakdown
+  - Open API spec
+  - Documentation
+- Dependencies
+  - Other features
+  - Libraries
+  - APIs
