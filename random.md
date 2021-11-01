@@ -44,3 +44,43 @@
 - Mentions
 - Channel Widgets
 - Plugins
+
+## Social Media General 
+
+### Configuration
+- Anchor
+  - Groups
+  - Users
+  - Chatrooms
+  - Page (web-component)
+  - Email ??
+- Post
+  - schema
+  - text
+  - media
+  - tags/keywords
+  - mentions
+  - replies
+    - thread
+      - max depth?
+    - re: post
+    - quote
+  - likes
+  - categories
+  - social tagging
+  - downvotes
+- Theme
+  - Styling
+- Profiles
+- Permissions / Workflow
+  - Invites
+- Integrations
+- Analytics
+- Extensions
+- Moderation
+  - Automation
+- Discovery
+
+
+
+  
