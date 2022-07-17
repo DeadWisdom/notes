@@ -8,6 +8,7 @@
 - Log real usage
 - Report real usage
 - Show public interface
+- Easy Auth
 - Easy Monetization
 - Easy Gateway
 - Easy Code Gen
