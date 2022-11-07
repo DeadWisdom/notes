@@ -39,6 +39,7 @@ A new twitter.
 - View from another person's perspective
 - Canon
   - Posts/Replies that are super important and distill an idea
+- RSS!!!
 
 ## Endpoints
 
