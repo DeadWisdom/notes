@@ -47,16 +47,20 @@ A new twitter.
 - GET/PUT/PATCH/DELETE Profile
 - GET/PUT/PATCH/DELETE Tag
 - GET/POST/DELETE Post / Reply / Message
-- POST Like / Reaction / Prop / Flag / Canonize
+- POST Like / Reaction / Prop / Flag / Canonize / Read
 - POST/GET Tips
 - PUT/DELETE Relation (Follow / Block / Ignore)
+- PUT/DELETE RSS Feed
 - GET Search
 
 ## Entities
+
 - Account
 - Profile
 - Tag
 - Post
 - Stream
 - Tip
-- Relation
+- Relation (Follow / Block / Ignore / Etc)
+- Subscription (External subscription, like for RSS)
+
