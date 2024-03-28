@@ -33,7 +33,7 @@ I'm okay with it generally except for the following things:
 - Variables/properties should be lower_snake_case. I don't understand the weirdness of PascalCase for everything. So dumb.
 - Asset names SHOULD NOT start with a prefix like SK_ and BP_ and all this nonsense. It's an out of date practice. UE5 is much better with telling you what sort of file it is and filtering.
 - All project-content needs to be in a top-level directory named "_". This is because all of the packs and plugins and what not want to be in the Content folder, so we need to separate out the custom project code. Until unreal lets us properly separate content packs / plugins / modules / whatever.
-- The projects and plugins should have a 1-3 letter initialism that all classes are prefixed with, along with an underscore like SOL_PlayerCharacter. This is because C++ sucks and Unreal expects all classes to have a unique name, wtf. Until unreal properly supports C++20 modules or namespaces.
+- The projects and plugins should have a 1-4 letter initialism that all classes are prefixed with, along with an underscore like SOL_PlayerCharacter. This is because C++ sucks and Unreal expects all classes to have a unique name, wtf. Until unreal properly supports C++20 modules or namespaces.
 - If there's a well established example like in a staff tutorial on https://dev.epicgames.com/community/ -- do it that way. Not because it's better but because it's much easier to package cognatively. But like, adjust the style.
 
 ## LLM Usage
