@@ -1,3 +1,7 @@
+## Links
+
+https://dev.epicgames.com/documentation/en-us/metahuman/downloading-and-exporting-metahumans/requirements-and-configuration-settings
+
 ## Create the VSStudio Project:
 
 https://www.reddit.com/r/unrealengine/comments/nn2n7h/visual_studio_code_with_ue5/
@@ -60,3 +64,4 @@ I have some issues with blueprints, my main one is they don't serialize well, bu
 We still don't have a good way to serialize the blueprints as they go. This means it's hard to use blueprints between projects.
 
 The best strategy is to create C++ scripts that expose blueprint functions to do the things we want. We know this.
+
