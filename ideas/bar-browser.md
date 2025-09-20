@@ -97,23 +97,23 @@ Then only 32 (Per player) * (Number of queued / in progress commands ~ 32???)
 So if game state gets out of sync, a full update is only a few MBs. Also you could hash each dataset and update only the ones that are actually out of sync. Meanwhile no one else really has to stop at all. Fuck your pausing.
 
 ## Systems
-Cooldown System
-Command System
-Position System
-Effect System
-AI System (Per Player / AI)
-Renderer (Main Thread)
+- Cooldown System
+- Command System
+- Position System
+- Effect System
+- AI System (Per Player / AI)
+- Renderer (Main Thread)
 
 ## Functional
 
 Renderer Needs Current:
-  Each Unit Type + Player
-  Each Unit Position/Rotation
-  Each Unit Health
-  Each Unit Resources
-  Each Cooldown for Each Unit
-  Each Effect
-  Known Commands
+- Each Unit Type + Player
+- Each Unit Position/Rotation
+- Each Unit Health
+- Each Unit Resources
+- Each Cooldown for Each Unit
+- Each Effect
+- Known Commands
 
 ## Calculating current state
 The effect system hast to be able to play, rewind, and replay a full history of events.
@@ -174,3 +174,4 @@ So we don't send commands (the player level), rather we send actions (at the gro
 You could still cheat and see where the units are going / targeting, but you couldn't see the full history of them and you wouldn't be able to see all of them.
 
 As you discover units, they would be added to groups.
+
