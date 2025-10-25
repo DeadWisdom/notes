@@ -1,29 +1,38 @@
-Mix
-1-2 hours intermediate folding
-fridge overnight
-get from fridge, let sit 1-8 hours
-one last fold, proof in floured towl, sit until doubles ~2 hours (more in winter)
-preheat a half hour before 500 degrees
-20 min take off bowl
-20 min take out
-hour ish
+# Kenji Lopez-Alt's No Knead Bread
 
-Hopefully this helps others who were trying to take notes:
-Ingredients:
-400g bread flour
-2g instant yeast (0.5%)
-8g salt (2%)
-300g of ~100° water (75%)
-A few drops to 1/8 tsp white vinegar
+https://www.youtube.com/watch?v=6RUDa0FKplk
 
-- combine all ingredients just until no dry spots in the flour. Cover and set aside for 15-45 minutes
-- do 3 sets of stretch and folds in 20 minute intervals.
-- let proof a few hours (he proofed in fridge overnight)
-- take out of fridge and rest ~2 hours at room temperature (cover in between)
-- do one final fold and stretch before shaping and proofing in dish towel in a bowl (or banneton) for 2 hours
-- place in 500°F preheated oven on upsidedown baking sheet, covered with wetted stainless bowl.
-- turn down temp to 450°
-- remove bowl after 20 minutes
-- remove bread after another 20 minutes, or when you feel it's done.
-- let completely cool before cutting bread.
-- 
+## Ingredients:
+
+- 400g bread flour
+- 2g instant yeast (0.5%)
+- 8g salt (2%)
+- 300g of ~100° water (75%)
+- A few drops to 1/8 tsp white vinegar
+
+## Instructions
+
+### Phase 1 (3-12 hours)
+- Combine all ingredients just until no dry spots in the flour
+- Cover (sealed), let it sit for 20 minutes
+- Do 3+ sets of stretching and folding, then letting it sit covered for 15ish minutes
+- Let proof a few hours or overnight in the fridge
+
+### Phase 2 (3-12 Hours)
+- Take out of fridge and rest 1-8 hours at room temperature (covered)
+- Do one final fold and stretch
+- Dish cloth coated heavily with flour, line the smaller bowl with it
+- [Shape, pinch, flower, smooth and stretch skin](https://youtu.be/6RUDa0FKplk?si=hzx8DHitUqaQUA3t&t=824)
+- Drop into the flowered cloth with pinch side down
+- Seal on top with the cookie sheat
+- Proof for 2ish hours
+
+### Phase 3 (.5
+- Preheat oven 500°F at least a half-hour with rack in lower middle position
+- Flip the sheet and small bowl combo upside down, so that the cookie sheet is upside down and the bread is on top of it
+- Remove the bowl, then the cloth
+- Put a little water in the big bowl, and pour it out, but it will still be wet
+- Place big bowl on top of the bread, place in oven
+- Turn oven down to 450°F and let bake for 20 minutes
+- Remove bowl, let it bake another 20ish minutes
+- Wait until it cools down, theoretically but yeah.
