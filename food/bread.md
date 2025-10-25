@@ -27,7 +27,7 @@ https://www.youtube.com/watch?v=6RUDa0FKplk
 - Seal on top with the cookie sheat
 - Proof for 2ish hours
 
-### Phase 3 (.5
+### Phase 3 (1 hour / 70 minutes, ish)
 - Preheat oven 500°F at least a half-hour with rack in lower middle position
 - Flip the sheet and small bowl combo upside down, so that the cookie sheet is upside down and the bread is on top of it
 - Remove the bowl, then the cloth
